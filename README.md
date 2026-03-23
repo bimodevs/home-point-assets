@@ -1,2 +1,1 @@
-# home-point-assets
-home point assets
+just repo for assets like gif
